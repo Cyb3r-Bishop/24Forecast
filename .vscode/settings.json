@@ -1,0 +1,10 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "other": "inline",
+        "comments": true,
+        "strings": true
+    },
+    "editor.quickSuggestionsDelay": 100,
+    "cmake.sourceDirectory": "D:/00/my_meather/linux"
+}
